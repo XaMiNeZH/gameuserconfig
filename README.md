@@ -1,0 +1,2 @@
+# gameuserconfig
+my games config 
