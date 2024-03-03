@@ -1,0 +1,8 @@
+"config"
+{
+	"bindings"
+	{
+		"`"		"<unbound>"
+		"CARET"		"toggleconsole"
+	}
+}
